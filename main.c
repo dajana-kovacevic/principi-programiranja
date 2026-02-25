@@ -53,9 +53,9 @@ int main()
     //pozivamo funkciju za spajanje stringova
     spoji(s1, s2);
     printf("Spojeni string: %s\n", s1);
-    printf("Pritisni Enter za izlaz...");
     getchar(); 
     getchar();
     return 0;
 }
+
 
